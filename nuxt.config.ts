@@ -5,5 +5,7 @@ export default defineNuxtConfig({
     plugins: [
       yaml()
     ]
-  }
+  },
+
+  compatibilityDate: '2025-01-18'
 })
